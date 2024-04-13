@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    background-size: border-box   ;
+}
+.header{
+    height: 120px;
+    background-color: rgb(100, 100, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: #ffffff;
+    font-size: 48px;
+    margin-left: 20px;
+    font-family: "Anton", sans-serif;
+}
+.main{
+    padding: 30px;
+    background-color: #8b8b8b;
+}
+.post{
+    background-color: white;
+    display: flex;
+    padding: 20px;
+    border-radius: 15px;
+    mAR
+}
+.pic img{
+    width: 150px 
+    height: 250px;
+    margin-right: 15px;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    margin-right: 20px;
+}
+.menu a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+}
+.footer{
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    color:#ffffff;
+    font-size: 20px;
+}
+.gallery img{
+    width: 27%;
+}
+.gallery{
+    text-align: center;
+}
+.gallery img:hover{
+    opacity: 1;
+}
+.textvideo{
+    font-family: "Anton", sans-serif;
+    font-size: 45px;
+    color:#ffffff;
+}
+.contacts img{
+ width: 50px;
+ margin-right: 20px;
+
+}
+.contacts{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-right: 50px;
+
+}
